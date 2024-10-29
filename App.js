@@ -15,7 +15,15 @@ function App() {
     'Acredite em milagres, mas não dependa deles.',
     'A maior barreira para o sucesso é o medo do fracasso.',
     'Deus é bom o tempo todo. O tempo todo Deus é bom.',
-    'Conhecimento é a única coisa que ninguém pode te tomar na vida.'
+    'Conhecimento é a única coisa que ninguém pode te tomar na vida.',
+    'É importante agradecer pelo hoje sem nunca desistir do amanhã !',
+    'Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre.',
+    'Se expressarmos gratidão pelo que temos, teremos mais pelo que expressar gratidão.',
+    'Desejar algo maior pra sua vida não significa que você está insatisfeito com o que tem.',
+    'Lembre-se do seu passado com carinho. Afinal, é por causa dele que você está aqui hoje !',
+    'Feliz de quem recebeu do céu um pedaço de pão e não precisa de agradecer a ninguém além do próprio céu.',
+    'Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem se desanime, pois o Senhor, o seu Deus, estará com você por onde você andar. Josué 1:9',
+    
   ]
 
   function quebraBiscoito(){

@@ -2,7 +2,7 @@
   "expo": {
     "name": "Biscoito da Sorte",
     "slug": "Biscoito_da_Sorte",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.devfrontwill.Biscoito_da_Sorte"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "747001fc-ebb3-40d5-94d4-4f93d177edd0"
+      }
     }
   }
 }
