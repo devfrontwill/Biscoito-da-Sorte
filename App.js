@@ -1,5 +1,12 @@
 import { useState } from 'react';
 import { Text, View, StyleSheet, Image, TouchableOpacity } from 'react-native';
+import * as SplashScreen from 'expo-splash-screen';
+
+SplashScreen.preventAutoHideAsync();
+
+setTimeout(() => {
+  SplashScreen.hideAsync();
+}, 2000)
 
 function App() {
 
@@ -23,7 +30,7 @@ function App() {
     'Lembre-se do seu passado com carinho. Afinal, é por causa dele que você está aqui hoje !',
     'Feliz de quem recebeu do céu um pedaço de pão e não precisa de agradecer a ninguém além do próprio céu.',
     'Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem se desanime, pois o Senhor, o seu Deus, estará com você por onde você andar. Josué 1:9',
-    
+
   ]
 
   function quebraBiscoito(){
